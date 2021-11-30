@@ -23,7 +23,7 @@ jobs:
 ```
 
 You can browse a run for this example [here](https://github.com/peter-evans/docker-compose-actions-workflow/actions/workflows/push.yml).
-
+  
 For more about testing containers before release see [Smoke Testing](https://github.com/peter-evans/smoke-testing).
 
 ## License
